@@ -1,11 +1,9 @@
 ## Ideas
 
-* Distribucion de educacion por zona.
-* Distribucion de cantidad de avisos por zonas.
-* Distribucion de horarios (part/full) por zona.
-* Cantidad de avisos de acuerdo a la edad.
-* Distribucion de edad por zonas.
-* ¿Hay mas avisos de personas graduadas que de personas con carrera en curso?
+
+* Cantidad de avisos de acuerdo a la edad. X 
+* Cantidad de avisos de acuerdo a edad y género. X
+* ¿Hay mas avisos de personas graduadas que de personas con carrera en curso? X
 * Distribucion de sectores laborales de acuerdo al genero.
 * Relacion entre la edad y el genero de las personas que buscan trabajo.
 * Distribucion entre edad y sectores laborales.
